@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "wongames-api",
   "private": true,
   "version": "0.1.0",
   "description": "Wongames API",
@@ -38,7 +38,7 @@
     "name": "Felipe Jung"
   },
   "strapi": {
-    "uuid": "0ca993b3-8ea7-4174-a5ca-8faaeb553145"
+    "uuid": "d5828e28-e5df-4086-a82a-0d6c415cd518"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
